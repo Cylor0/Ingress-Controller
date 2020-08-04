@@ -476,7 +476,7 @@ maxmindLicenseKey: ""
 ## Default 404 backend
 ##
 
- defaultBackend:
+defaultBackend:
   ##
   enabled: false
 
